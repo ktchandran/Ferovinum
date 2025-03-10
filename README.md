@@ -10,7 +10,7 @@ Run the below command from the project working directory
 
 - `python `src/process.py
 
-### Note: Ensure the raw data is extracted and copied to the location `resources/`, e.g. `recources/data/logs` for the logs data
+### Note: Ensure the raw data needs to extracted and copied to the location `resources/`before processing data, e.g. `recources/data/logs` for the logs data
 
 # Tests
 Run the below command from the project working directory
